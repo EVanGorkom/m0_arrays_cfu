@@ -20,3 +20,5 @@ puts cat_in_box.first
 # Index positions are the positions within the array, and they number starting with 0. 
 # For example in the array example = [23, 24, 25, 26] the value of the element in index position 3 is 26.
 
+puts bank_statements.take(2)
+# This method will return the first n elements of the array. In thise case it will be the first 2.
